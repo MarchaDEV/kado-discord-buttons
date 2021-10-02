@@ -1,0 +1,23 @@
+{
+    "name": "kado",
+    "version": "1.0.0",
+    "description": "Zamanında kullandığım button sistemi",
+    "main": "app.js",
+    "dependencies": {
+        "discord-buttons": "^2.4.1",
+        "discord.js": "^12.5.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "node ."
+    },
+    "keywords": [
+        "kado",
+        "discordkado",
+        "discordbot",
+        "button botu",
+        "kadobuttonbot"
+    ],
+    "author": "Kado",
+    "license": "ISC"
+}
