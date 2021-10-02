@@ -1,2 +1,2 @@
-<h1>Selmalar</h1>
+<h1>Selamlar</h1>
 Zamanında yaptığım ve buda kalmasın diye paylaşıcağım buton sistemi
