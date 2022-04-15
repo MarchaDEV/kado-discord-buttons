@@ -17,7 +17,7 @@ client.on("message", async(kado) => {
     if (command === "!button" && config.owner == kado.author.id) {
         let vk = new disbut.MessageButton().setStyle('green').setLabel('Vampir Köylü').setID('vk')
         let dc = new disbut.MessageButton().setStyle('red').setLabel('Doğruluk Cesaretlik').setID('dc')
-        kado.channel.send('Aşağıdaki butonlardan oynadığınız rolu alabilirisiniz iyi eğlenceler!', { buttons: [vk, dc, grt] });
+        kado.channel.send('Aşağıdaki butonlardan oynadığınız rolu alabilirisiniz iyi eğlenceler!', { buttons: [vk, dc] });
     }
 });
 
